@@ -1,0 +1,19 @@
+*.log
+*.pyc
+.DS_Store
+*.iml
+.iml
+.rsynctarget
+
+rsync.json
+
+# folders
+.idea/
+/coverage/
+/dist
+node_modules/
+/tmp/
+/workspace
+
+.nyc_output
+coverage-nyc/
